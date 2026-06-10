@@ -46,8 +46,9 @@ The notebook focuses on PC1 as a market co-movement mode. The main diagnostics a
 - PC1 sign coherence
 - correlation between PC1 score and CSI 500 index return
 - SW2021 sector-average PC1 loadings
+- PC2 sector enrichment after adjusting for sector size
 
-In the current experiment, PC1 score is highly correlated with CSI 500 returns in both regimes, suggesting that PC1 is a useful indicator of broad market co-movement rather than a direct price-trend detector.
+In the current experiment, PC1 score is highly correlated with CSI 500 returns in both regimes, suggesting that PC1 is a useful indicator of broad market co-movement rather than a direct price-trend detector. PC2 is studied through squared-loading sector enrichment, which avoids eigenvector sign ambiguity and highlights which sectors dominate the second relative co-movement mode.
 
 ## Why Correlation PCA?
 
