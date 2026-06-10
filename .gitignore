@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Local data/cache files generated when rerunning notebooks
+data_cache/
+
+# Local credentials
+.env
